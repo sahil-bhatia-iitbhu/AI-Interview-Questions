@@ -6,7 +6,7 @@ This repo contains implementation of 25+ prompt engineering techniques.
 
 | # | Category | Technique | Description | Learn |
 |---|----------|-----------|-------------|--------|
-| 1 | Basic    | Zero-shot Prompting | Prompting without examples | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Basic_Prompt_Engineering_Techniques/Zero_Shot_Prompting.md)  |
+| 1 | Basic    | Zero-shot Prompting | Prompting without examples | [Link](https://github.com/sahil-bhatia-iitbhu/AI-Interview-Questions/blob/main/Prompting%Techniques/Basic_Prompt_Engineering_Techniques/Zero_Shot_Prompting.md)  |
 | 2 | Basic    | Emotion Prompting | Prompting with emotional cues | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Basic_Prompt_Engineering_Techniques/Emotion_Prompting.md) |
 | 3 | Basic    | Role Prompting | Model acts by adopting a specified role | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Basic_Prompt_Engineering_Techniques/Role_Prompting.md) |
 | 4 | Basic    | Batch Prompting | Model processes multiple inputs in one prompt | [Link](https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub/blob/main/Basic_Prompt_Engineering_Techniques/Batch_Prompting.md) | 
@@ -39,4 +39,5 @@ This repo contains implementation of 25+ prompt engineering techniques.
 
 
 Please consider giving a star, if you find this repository useful. 
+
 
